@@ -17,7 +17,7 @@
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The FreakChain developers</source>
+Copyright © 2020-2025 The FreakChain developers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
